@@ -1,7 +1,7 @@
 #String-------------------
 print("METHODS FOR STRING")
 s = "Tan_Patel"
-
+ 
 s1 = s.upper()
 print(s1)
 s2 = s.lower()
@@ -74,7 +74,7 @@ print()
 
 #DICT-------------------
 print("METHODS FOR DICT")
-Dict={"Name":"Tan","Age":19}
+Dict={"Name":"Tan Patel","Age":19}
 
 d1=Dict.keys()
 print(d1)
